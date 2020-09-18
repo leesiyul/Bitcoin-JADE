@@ -1,5 +1,5 @@
 # Bitcoin JADE
-- an educational cryptocurrency. This coin was created to tell you how to make your own coin. You can have your own coin by following a few step guides. This coin originated in SmallChange and is subject to the MIT license.
+- 와 정말 데단해
 
 # Features
 - 15 seconds block targets
